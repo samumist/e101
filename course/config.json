@@ -1,0 +1,77 @@
+{
+	"_defaultLanguage": "en",
+	"_defaultDirection": "ltr",
+	"_questionWeight": 1,
+	"_accessibility": {
+		"_isEnabled": false,
+		"_shouldSupportLegacyBrowsers": true,
+		"_isTextProcessorEnabled": true,
+		"_disableTextSelectOnClasses": ""
+	},
+	"_drawer": {
+		"_showEasing": "easeOutQuart",
+		"_hideEasing": "easeInQuart",
+		"_duration": 400
+	},
+	"_spoor": {
+		"_isEnabled": true,
+		"_tracking": {
+			"_requireCourseCompleted": true,
+			"_requireAssessmentPassed": false,
+			"_shouldSubmitScore": false,
+			"_shouldStoreResponses": false,
+			"_shouldRecordInteractions": true
+		},
+		"_reporting": {
+			"_comment": "Your options here are 'completed', 'passed', 'failed', and 'incomplete'",
+			"_onTrackingCriteriaMet": "completed",
+			"_onAssessmentFailure": "incomplete"
+		}
+	},
+	"_disableAnimationFor": [],
+	"build": {},
+	"_inspector": {
+		"_isEnabled": false,
+		"_disableOnTouch": false,
+		"_tracUrl": ""
+	},
+	"_devtools": {
+		"_isEnabled": false,
+		"_theme": "theme-dark"
+	},
+	"_languagePicker": {
+		"_isEnabled": false,
+		"displayTitle": "Please select a language",
+		"body": "This course is available in the following languages",
+		"_languages": [{
+			"_language": "en",
+			"_direction": "ltr",
+			"displayName": "English",
+			"warningTitle": "Change language?",
+			"warningMessage": "Changing the language will reset course progress.<br><br>Would you like to proceed?",
+			"_buttons": {
+				"yes": "Yes",
+				"no": "No"
+			}
+		}, {
+			"_language": "zh-cn",
+			"_direction": "ltr",
+			"displayName": "简体中文",
+			"warningTitle": "切换课程显示语言？",
+			"warningMessage": "切换课程显示语言会重置课程进度。<br><br>你确定要继续吗？",
+			"_buttons": {
+				"yes": "继续",
+				"no": "取消"
+			}
+		}],
+		"_accessibility": {
+			"_accessibilityToggleTextOn": "Turn accessibility on?",
+			"_accessibilityToggleTextOff": "Turn accessibility off?",
+			"_accessibilityInstructions": {
+				"touch": "Usage instructions. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
+				"notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+				"ipad": "Usage instructions for touchscreens. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use right for next. Use left for previous. Use up and down together to select."
+			}
+		}
+	}
+}
