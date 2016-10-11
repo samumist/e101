@@ -5,6 +5,8 @@
 	"displayTitle": "title",
 	"description": "",
 	"body": "body",
+	"footer": "Open course sponsored by ELF.",
+	"footerIcon": "icon-heart",
 	"_buttons": {
 		"_submit": {
 			"buttonText": "Submit",
