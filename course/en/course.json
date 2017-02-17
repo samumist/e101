@@ -1,19 +1,19 @@
 {
 	"_id": "e101",
 	"_type": "course",
-    "_classes": "",
+	"_classes": "",
 	"title": "title",
 	"displayTitle": "title",
 	"description": "",
 	"body": "body",
-    "_comment": "_lockType: sequential | unlockFirst | lockLast | custom ",
-    "_lockType": "",
-    "_start": {
-        "_isMenuDisabled": false,
-        "_force": false,
-        "_startIds": [],
-        "_isEnabled": false
-    },
+		"_comment": "_lockType: sequential | unlockFirst | lockLast | custom ",
+		"_lockType": "",
+		"_start": {
+				"_isMenuDisabled": false,
+				"_force": false,
+				"_startIds": [],
+				"_isEnabled": false
+		},
 	"_buttons": {
 		"_submit": {
 			"buttonText": "Submit",
@@ -92,8 +92,8 @@
 				"durationLabel": "Duration:",
 				"menuItem": "Menu item.",
 				"menuEnd": "You have reached the end of the menu.",
-                "footer": "Open course sponsored by ELF.",
-                "footerIcon": "icon-heart"
+					"footer": "Open course sponsored by ELF.",
+					"footerIcon": "icon-heart"
 			}
 		},
 		"_accessibility": {
@@ -137,7 +137,7 @@
 	},
 	"_pageLevelProgress": {
 		"_isEnabled": true,
-        "_showPageCompletion": true,
+				"_showPageCompletion": true,
 		"_altText": "of components completed on this page."
 	}
 }
