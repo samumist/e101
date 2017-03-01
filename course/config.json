@@ -79,5 +79,7 @@
 				"ipad": "Usage instructions for touchscreens. Use swipe right for next. Use swipe left for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use right for next. Use left for previous. Use up and down together to select."
 			}
 		}
-	}
+	},
+  "comment": "this setting prevents the user from bypassing the menu locking",
+  "_forceRouteLocking": false
 }
