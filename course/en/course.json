@@ -9,10 +9,10 @@
 		"_comment": "_lockType: sequential | unlockFirst | lockLast | custom ",
 		"_lockType": "",
 		"_start": {
-				"_isMenuDisabled": false,
-				"_force": false,
-				"_startIds": [],
-				"_isEnabled": false
+			"_isMenuDisabled": false,
+			"_force": false,
+			"_startIds": [],
+			"_isEnabled": false
 		},
 	"_buttons": {
 		"_submit": {
@@ -92,8 +92,8 @@
 				"durationLabel": "Duration:",
 				"menuItem": "Menu item.",
 				"menuEnd": "You have reached the end of the menu.",
-					"footer": "Open course sponsored by ELF.",
-					"footerIcon": "icon-heart"
+				"footer": "Open course sponsored by ELF.",
+				"footerIcon": "icon-heart"
 			}
 		},
 		"_accessibility": {
