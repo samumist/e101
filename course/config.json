@@ -49,6 +49,10 @@
 	},
 	"_languagePicker": {
 		"_isEnabled": false,
+    "_showOnCourseLoad": true,
+    "_comment": "_languagePickerIconClass = icon-language-1 | icon-language-2 | icon-globe",
+    "_languagePickerIconClass": "icon-language-1",
+    "title": "Language selection",
 		"displayTitle": "Please select a language",
 		"body": "This course is available in the following languages",
 		"_languages": [{
