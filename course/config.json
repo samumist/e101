@@ -49,12 +49,12 @@
 	},
 	"_languagePicker": {
 		"_isEnabled": false,
-    "_showOnCourseLoad": true,
-    "_comment": "_languagePickerIconClass = icon-language-1 | icon-language-2 | icon-globe",
-    "_languagePickerIconClass": "icon-language-1",
     "title": "Language selection",
 		"displayTitle": "Please select a language",
 		"body": "This course is available in the following languages",
+    "_showOnCourseLoad": true,
+    "_comment": "_languagePickerIconClass = icon-language-1 | icon-language-2 | icon-globe",
+    "_languagePickerIconClass": "icon-language-1",
 		"_languages": [{
 			"_language": "en",
 			"_direction": "ltr",
@@ -77,8 +77,9 @@
 			}
 		}],
 		"_accessibility": {
-			"_accessibilityToggleTextOn": "Turn accessibility on?",
-			"_accessibilityToggleTextOff": "Turn accessibility off?",
+			"accessibilityToggleTextOn": "Turn accessibility on?",
+			"accessibilityToggleTextOff": "Turn accessibility off?",
+      "skipNavigationText": "Skip navigation",
 			"_accessibilityInstructions": {
 				"touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tap to select. Use a two finger slide up to go to the top of the page.",
 				"notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
