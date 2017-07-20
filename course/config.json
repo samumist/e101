@@ -24,7 +24,6 @@
 		"_isEnabled": true,
 		"_tracking": {
 			"_requireCourseCompleted": true,
-			"_requireAssessmentPassed": false,
 			"_shouldSubmitScore": false,
 			"_shouldStoreResponses": false,
 			"_shouldRecordInteractions": true
@@ -88,5 +87,5 @@
 		}
 	},
   "comment": "this setting prevents the user from bypassing the menu locking",
-  "_forceRouteLocking": false
+  "_forceRouteLocking": true
 }
